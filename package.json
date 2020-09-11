@@ -10,7 +10,7 @@
 		"express": "3.4.4"
 	},
 	"devDependencies": {
-		"lodash": "2.3.0",
+		"lodash": "4.17.20",
 		"mocha": "1.14.0",
 		"chai": "1.8.1",
 		"sinon": "1.7.3",
